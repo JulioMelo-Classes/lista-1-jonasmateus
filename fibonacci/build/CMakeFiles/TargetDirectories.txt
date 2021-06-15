@@ -1,0 +1,5 @@
+/home/runner/Exercicios/lista-1-jonasmateus/fibonacci/build/CMakeFiles/edit_cache.dir
+/home/runner/Exercicios/lista-1-jonasmateus/fibonacci/build/CMakeFiles/run_tests.dir
+/home/runner/Exercicios/lista-1-jonasmateus/fibonacci/build/CMakeFiles/rebuild_cache.dir
+/home/runner/Exercicios/lista-1-jonasmateus/fibonacci/build/CMakeFiles/func.dir
+/home/runner/Exercicios/lista-1-jonasmateus/fibonacci/build/CMakeFiles/all_tests.dir
