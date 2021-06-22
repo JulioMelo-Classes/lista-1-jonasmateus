@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/Exercicios/lista-1-jonasmateus/inverter/src/function.cpp
+function.h
+/home/runner/Exercicios/lista-1-jonasmateus/inverter/src/function.h
+iterator
+-
+
+/home/runner/Exercicios/lista-1-jonasmateus/inverter/src/function.h
+array
+-
+string
+-
+function.cpp
+/home/runner/Exercicios/lista-1-jonasmateus/inverter/src/function.cpp
+
