@@ -1,4 +1,0 @@
-/home/runner/Exercicios/lista-1-jonasmateus/intervalos/build/CMakeFiles/rebuild_cache.dir
-/home/runner/Exercicios/lista-1-jonasmateus/intervalos/build/CMakeFiles/program.dir
-/home/runner/Exercicios/lista-1-jonasmateus/intervalos/build/CMakeFiles/edit_cache.dir
-/home/runner/Exercicios/lista-1-jonasmateus/intervalos/build/CMakeFiles/verify.dir

@@ -1,5 +1,8 @@
 #include "function.h"
 
+/*
+blz 80%, faltou só o caso de testes onde o vetor retornado tem que ser vazio
+*/
 std::vector<unsigned int> fib_below_n( unsigned int n )
 {
     // TODO: adicione o seu código aqui.
