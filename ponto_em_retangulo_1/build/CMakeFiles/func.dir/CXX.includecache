@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/Exercicios/lista-1-jonasmateus/ponto_em_retangulo_1/src/function.cpp
+function.h
+/home/runner/Exercicios/lista-1-jonasmateus/ponto_em_retangulo_1/src/function.h
+
+/home/runner/Exercicios/lista-1-jonasmateus/ponto_em_retangulo_1/src/function.h
+array
+-
+string
+-
+

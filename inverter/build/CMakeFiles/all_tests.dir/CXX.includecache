@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
+../src/function.cpp
+function.h
+../src/function.h
+iterator
+-
+
 ../src/function.h
 array
 -
 string
 -
+function.cpp
+../src/function.cpp
 
 ../tests/lib/test_manager/include/test_manager.h
 iostream
