@@ -7,9 +7,9 @@
 #IncludeRegexTransform: 
 
 ../src/function.cpp
-function.h
-../src/function.h
 iterator
+-
+array
 -
 
 ../src/function.h
