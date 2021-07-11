@@ -43,7 +43,7 @@ int main(void)
     }
     else if((pontoA.x > pontoB.x))
     {
-      cout << (pt_in_rect(pontoA, pontoB, pontoC) == INSIDE ? "inside" : pt_in_rect(pontoA, pontoB, pontoC) == BORDER ? "border" : "outside") << endl;
+      cout << (pt_in_rect(pontoB, pontoA, pontoC) == INSIDE ? "inside" : pt_in_rect(pontoA, pontoB, pontoC) == BORDER ? "border" : "outside") << endl;
     }
     else
     {
