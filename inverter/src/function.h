@@ -6,6 +6,9 @@ using std::array;
 #include <string>
 using std::string;
 
+/*
+blz, implementação de template é mesmo no .h
+*/
 template <size_t SIZE>
 void reverse( std::array<std::string,SIZE> & arr )
 {

@@ -1,4 +1,0 @@
-/home/runner/Exercicios/lista-1-jonasmateus/soma_vizinhos/build/CMakeFiles/rebuild_cache.dir
-/home/runner/Exercicios/lista-1-jonasmateus/soma_vizinhos/build/CMakeFiles/program.dir
-/home/runner/Exercicios/lista-1-jonasmateus/soma_vizinhos/build/CMakeFiles/edit_cache.dir
-/home/runner/Exercicios/lista-1-jonasmateus/soma_vizinhos/build/CMakeFiles/verify.dir
